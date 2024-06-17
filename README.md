@@ -19,7 +19,7 @@
 
 ## Demo
 
-You can click [here](https://app.netlify.com/sites/travel-list-sezer/overview) for a live demo.
+You can click [here](https://travel-list-sezer.netlify.app/) for a live demo.
 
 
   
